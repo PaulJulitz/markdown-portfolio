@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![profile-image](https://apod.nasa.gov/apod/image/1907/SpotlessSunIss_Colacurcio_2048.jpg)
